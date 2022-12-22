@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="AmigoInvisibleGUI">
+  <grid id="27dc6" binding="Panel" layout-manager="GridLayoutManager" row-count="7" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="10" left="10" bottom="10" right="10"/>
+    <constraints>
+      <xy x="20" y="20" width="704" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-14013117"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="fde2" class="javax.swing.JTextField" binding="nombre5">
+        <constraints>
+          <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="478" height="30"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-12500127"/>
+          <caretColor color="-31512"/>
+          <disabledTextColor color="-31512"/>
+          <font name="Montserrat Medium"/>
+          <foreground color="-31512"/>
+          <inheritsPopupMenu value="false"/>
+          <margin top="2" left="6" bottom="2" right="6"/>
+          <selectedTextColor color="-7323255"/>
+          <selectionColor color="-31512"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="d878e" class="javax.swing.JTextField" binding="nombre4">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="478" height="30"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-12500127"/>
+          <caretColor color="-31512"/>
+          <disabledTextColor color="-31512"/>
+          <font name="Montserrat Medium"/>
+          <foreground color="-31512"/>
+          <margin top="2" left="6" bottom="2" right="6"/>
+          <selectedTextColor color="-7323255"/>
+          <selectionColor color="-31512"/>
+        </properties>
+      </component>
+      <component id="e898f" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Montserrat Medium"/>
+          <foreground color="-31512"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="0"/>
+          <text value="Persona 1: "/>
+        </properties>
+      </component>
+      <component id="d8e03" class="javax.swing.JButton" binding="sortearButton" default-binding="true">
+        <constraints>
+          <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-14013117"/>
+          <focusable value="false"/>
+          <font name="Montserrat Medium"/>
+          <foreground color="-31512"/>
+          <requestFocusEnabled value="false"/>
+          <rolloverEnabled value="false"/>
+          <text value="¡Sortear!"/>
+          <verifyInputWhenFocusTarget value="true"/>
+        </properties>
+      </component>
+      <component id="d1bd0" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <focusable value="false"/>
+          <font name="Cocogoose Pro" size="26"/>
+          <foreground color="-8442677"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="0"/>
+          <iconTextGap value="2"/>
+          <text value="TuAmigoInvisible"/>
+        </properties>
+      </component>
+      <component id="752a8" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Montserrat Medium"/>
+          <foreground color="-31512"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="0"/>
+          <text value="Persona 2: "/>
+        </properties>
+      </component>
+      <component id="1c25a" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Montserrat Medium"/>
+          <foreground color="-31512"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="0"/>
+          <text value="Persona 3: "/>
+        </properties>
+      </component>
+      <component id="7762a" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Montserrat Medium"/>
+          <foreground color="-31512"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="0"/>
+          <text value="Persona 4: "/>
+        </properties>
+      </component>
+      <component id="6d4fb" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Montserrat Medium"/>
+          <foreground color="-31512"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="0"/>
+          <text value="Persona 5: "/>
+        </properties>
+      </component>
+      <component id="2cdc3" class="javax.swing.JTextField" binding="nombre3">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="478" height="30"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-12500127"/>
+          <caretColor color="-31512"/>
+          <disabledTextColor color="-31512"/>
+          <font name="Montserrat Medium"/>
+          <foreground color="-31512"/>
+          <margin top="2" left="6" bottom="2" right="6"/>
+          <selectedTextColor color="-7323255"/>
+          <selectionColor color="-31512"/>
+        </properties>
+      </component>
+      <component id="9bd72" class="javax.swing.JTextField" binding="nombre2">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="478" height="30"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-12500127"/>
+          <caretColor color="-31512"/>
+          <disabledTextColor color="-31512"/>
+          <doubleBuffered value="false"/>
+          <font name="Montserrat Medium"/>
+          <foreground color="-31512"/>
+          <margin top="2" left="6" bottom="2" right="6"/>
+          <selectedTextColor color="-7323255"/>
+          <selectionColor color="-31512"/>
+        </properties>
+      </component>
+      <component id="aa861" class="javax.swing.JTextField" binding="nombre1">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="478" height="30"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-12500127"/>
+          <caretColor color="-31512"/>
+          <disabledTextColor color="-31512"/>
+          <font name="Montserrat Medium"/>
+          <foreground color="-31512"/>
+          <margin top="2" left="6" bottom="2" right="6"/>
+          <selectedTextColor color="-7323255"/>
+          <selectionColor color="-31512"/>
+        </properties>
+      </component>
+      <component id="5135e" class="javax.swing.JButton" binding="AboutMe">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-14013117"/>
+          <focusable value="false"/>
+          <font name="Montserrat Medium"/>
+          <foreground color="-31512"/>
+          <requestFocusEnabled value="false"/>
+          <rolloverEnabled value="false"/>
+          <text value="About me"/>
+          <verifyInputWhenFocusTarget value="true"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
