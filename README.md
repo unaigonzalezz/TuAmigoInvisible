@@ -1,6 +1,6 @@
 # TuAmigoInvisible
 
-![alt text]([https://i.ibb.co/1QVYJvk/Splah.png](https://i.ibb.co/PNbQy7G/Splah.png])
+![alt text]([https://i.ibb.co/1QVYJvk/Splah.png](https://i.ibb.co/PNbQy7G/Splah.png)
 
 ¡Genera las asignaciones para los regalos del amigo invisible!
 ## Installation
